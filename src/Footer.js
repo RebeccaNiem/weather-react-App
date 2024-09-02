@@ -4,9 +4,7 @@ export default function Footer() {
     <div>
       <footer>
         This project is hosted on{" "}
-        <a href="https://app.netlify.com/sites/funny-concha-0715bf/overview">
-          Netlify
-        </a>
+        <a href="https://rebeccasreactweatherapp.netlify.app/">Netlify</a>
       </footer>
     </div>
   );
