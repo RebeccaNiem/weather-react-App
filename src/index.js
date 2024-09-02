@@ -1,13 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import Weather from "./Weather";
-import axios from "axios";
+
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import Footer from "./Footer";
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
